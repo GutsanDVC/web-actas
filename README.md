@@ -72,3 +72,6 @@ fetch('http://localhost:8001/send-acta', {
 - [Google Identity Services](https://developers.google.com/identity/oauth2/web/guides/use-token-model)
 
 ---
+
+---
+El código del frontend React se encuentra en la carpeta `frontend`.
